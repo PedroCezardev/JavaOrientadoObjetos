@@ -1,4 +1,4 @@
-
+// Métodos de como usar uma classe String em Java.
 
 package com.mycompany.classe.string;
 
